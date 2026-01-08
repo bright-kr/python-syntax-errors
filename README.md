@@ -1,6 +1,6 @@
 # Python 구문 오류를 피하고 수정하는 방법
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
 이 가이드는 흔한 Python 구문 오류, 이를 예방하기 위해 사용할 수 있는 사전 전략, 그리고 이를 효율적으로 해결하기 위해 사용할 수 있는 사후 방법을 설명합니다:
 
@@ -458,7 +458,7 @@ data = fetch_data()
 
 예를 들어, 편집기에서 붉은 표시가 나타나면 `if response.status_code == 200`에서 콜론 누락을 의미할 수 있습니다.
 
-![A red mark suggesting there is an error ](https://github.com/luminati-io/python-syntax-errors/blob/main/images/A-red-mark-suggesting-there-is-an-error-1024x525.png)
+![A red mark suggesting there is an error ](https://github.com/bright-kr/python-syntax-errors/blob/main/images/A-red-mark-suggesting-there-is-an-error-1024x525.png)
 
 #### 일관된 코딩 스타일 가이드라인 준수
 
