@@ -547,6 +547,6 @@ Python 오류 메시지는 문제와 그 위치에 대한 세부 정보를 제�
 
 ## Conclusion
 
-[신뢰할 수 있는 プロキシ 서비스](https://brightdata.co.kr/proxy-types), 자동화된 데이터 수집, [즉시 사용 가능한 データセット](https://brightdata.co.kr/products/datasets), 또는 [Webスクレイピング 작업 자동화](https://brightdata.co.kr/products/web-scraper)가 필요하든, Bright Data는 Webスクレイピング 프로젝트를 더 효율적이고 생산적으로 만들 수 있는 솔루션을 제공합니다. Python으로 Webスクレイピング을 배우고 싶으십니까? 자세한 [단계별 Python 스크레이핑 가이드](https://brightdata.co.kr/blog/how-tos/web-scraping-with-python)를 읽어보십시오.
+[신뢰할 수 있는 프록시 서비스](https://brightdata.co.kr/proxy-types), 자동화된 데이터 수집, [즉시 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets), 또는 [Web스크레이핑 작업 자동화](https://brightdata.co.kr/products/web-scraper)가 필요하든, Bright Data는 Web스크레이핑 프로젝트를 더 효율적이고 생산적으로 만들 수 있는 솔루션을 제공합니다. Python으로 Web스크레이핑을 배우고 싶으십니까? 자세한 [단계별 Python 스크레이핑 가이드](https://brightdata.co.kr/blog/how-tos/web-scraping-with-python)를 읽어보십시오.
 
 지금 가입하여 필요에 맞는 제품을 찾고 오늘 무료 체험을 시작하십시오!
